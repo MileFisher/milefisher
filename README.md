@@ -13,7 +13,7 @@
 
 ## 🙋 About Me
 
-I'm a **3rd-year Software Engineering student** at **Ton Duc Thang University** (Ho Chi Minh City, Vietnam), currently on a **75% scholarship**. I'm passionate about building full-stack applications and exploring AI-driven solutions.
+I'm a **3rd-year Software Engineering student** at **Ton Duc Thang University** (Ho Chi Minh City, Vietnam), currently on a **75% scholarship**. I'm passionate about building full-stack applications. DevOps and exploring AI-driven solutions.
 
 - 🔬 Researching **AI Systems for Knee Joint Analysis and Diagnosis**
 - 🎓 Building an **E-Learning Ethics & Policy: AI-Assisted LMS** project
