@@ -59,9 +59,11 @@ I'm a **3rd-year Software Engineering student** at **Ton Duc Thang University** 
 
 <div align="center">
 
-[![Aung Khant Paing's GitHub stats](https://github-readme-stats-kokoye2007.vercel.app/api?username=MileFisher&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)](https://github.com/MileFisher)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=milefisher)](https://github.com/milefisher/github-readme-stats)
 
-[![Top Languages](https://github-readme-stats-kokoye2007.vercel.app/api/top-langs/?username=MileFisher&layout=compact&theme=tokyonight)](https://github.com/MileFisher)
+<!-- [![Aung Khant Paing's GitHub stats](https://github-readme-stats-kokoye2007.vercel.app/api?username=MileFisher&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)](https://github.com/MileFisher)
+
+[![Top Languages](https://github-readme-stats-kokoye2007.vercel.app/api/top-langs/?username=MileFisher&layout=compact&theme=tokyonight)](https://github.com/MileFisher) -->
 
 </div>
 
