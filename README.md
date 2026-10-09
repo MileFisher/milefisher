@@ -13,12 +13,24 @@
 
 ## 🙋 About Me
 
-I'm a **3rd-year Software Engineering student** at **Ton Duc Thang University** (Ho Chi Minh City, Vietnam), currently on a **75% scholarship**. I'm passionate about building full-stack applications. DevOps and exploring AI-driven solutions.
+I'm a **3rd-year Software Engineering student** at **Ton Duc Thang University** (Ho Chi Minh City, Vietnam), currently on a **75% scholarship**. I'm passionate about building full-stack applications, DevOps, and exploring AI-driven solutions.
 
 - 🔬 Researching **AI Systems for Knee Joint Analysis and Diagnosis**
 - 🎓 Building an **E-Learning Ethics & Policy: AI-Assisted LMS** project
 - 🤝 Looking to **collaborate** on innovative projects with experienced teams
 - 🌏 From Myanmar — IELTS 6.0 · JLPT N5
+
+---
+
+## 🏆 Achievements
+
+### 🦵 KneeXpert — AI System for Knee Joint Analysis & Diagnosis
+
+[![Live Demo](https://img.shields.io/badge/🚀_Live_Demo-knee--xpert--showcase-0A66C2?style=for-the-badge)](https://knee-xpert-showcase.vercel.app/)
+
+- 🥈 **2nd Prize** — Ton Duc Thang University Student Research Competition
+- 🎖️ **Selected as a university representative** for the **Euréka Student Research Awards**
+- 🏅 **4th Prize** — **VietFuture Awards 2026**
 
 ---
 
@@ -40,6 +52,7 @@ I'm a **3rd-year Software Engineering student** at **Ton Duc Thang University** 
 
 ![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
@@ -74,10 +87,11 @@ I'm a **3rd-year Software Engineering student** at **Ton Duc Thang University** 
 
 | Role | Organization | Period |
 |------|-------------|--------|
+| 🤖 Software & AI Engineering Intern | TechValley Vietnam | Jul – Sep 2026 |
 | 🖧 Network Engineering Intern | FPT IS | Apr – Jul 2025 |
 | 🎨 Media & Design Team Leader | Creative Language Center, TDTU | 2023 – Present |
+| 👨‍🏫 Teaching Assistant | Creative Language Center, TDTU | 2023 – 2025 |
 | 🌐 Part-time Translator (EN → Myanmar) | Subtitle Website | 2020 – 2024 |
-| 👨‍🏫 Teaching Assistant | Creative Language Center, TDTU | 2023 – Present |
 
 ---
 
@@ -92,7 +106,7 @@ I'm a **3rd-year Software Engineering student** at **Ton Duc Thang University** 
 
 ## 📌 Skills
 
-`Web Programming` · `Software Engineering & SDLC` · `DevOps` · `ERP (Odoo)` · `Database Systems` · `Mobile Development` · `Full-Stack Development` · `Networking (Cisco Packet Tracer)`
+`Web Programming` · `Software Engineering & SDLC` · `DevOps` · `Container Orchestration (Kubernetes)` · `ERP (Odoo)` · `Database Systems` · `Mobile Development` · `Full-Stack Development` · `Networking (Cisco Packet Tracer)`
 
 ---
 
